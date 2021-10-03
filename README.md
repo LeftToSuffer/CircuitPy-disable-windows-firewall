@@ -1,0 +1,1 @@
+# CircuitPy-disable-windows-firewall
